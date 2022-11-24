@@ -22,3 +22,7 @@
 ## 4.
 
 ![alt text](https://github.com/Mertcali/etiyaAkademi/blob/master/workshop2_ER_Diagrams/ER_png.png)
+
+## 5. PostGres ERD
+
+![alt text](https://github.com/Mertcali/etiyaAkademi/blob/master/workshop2_ER_Diagrams/PostgresERD.png)
