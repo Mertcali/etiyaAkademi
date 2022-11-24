@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/interfaces/interfaces.iml" filepath="$PROJECT_DIR$/interfaces/interfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop/oop.iml" filepath="$PROJECT_DIR$/oop/oop.iml" />
       <module fileurl="file://$PROJECT_DIR$/workshop1/workshop1.iml" filepath="$PROJECT_DIR$/workshop1/workshop1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workshop2_ER_Diagrams/workshop2_ER_Diagrams.iml" filepath="$PROJECT_DIR$/workshop2_ER_Diagrams/workshop2_ER_Diagrams.iml" />
     </modules>
   </component>
 </project>

@@ -3,6 +3,7 @@ import java.util.List;
 public class Main {
     public static void main(String[] args) {
 
+
         CustomerManager manager = new CustomerManager(new MysqlCustomerDal());
         Customer customer1 = new Customer(3,"Eklemedeneme","Eklemedeneme",22);
         Customer customer2 = new Customer(4,"Updatedeneme","Updatedeneme",22);

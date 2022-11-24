@@ -6,9 +6,9 @@ public class MysqlCustomerDal implements ICustomerDal{
     List<Customer> customers = new ArrayList<>();
 
     public MysqlCustomerDal() {
-        customers.add(new Customer(0,"Mert","Cal",25));
-        customers.add(new Customer(1,"Mert2","Cal2",26));
-        customers.add(new Customer(2,"Mert3","Cal3",27));
+        customers.add(new Customer(1,"Mert","Cal",25));
+        customers.add(new Customer(2,"Mert2","Cal2",26));
+        customers.add(new Customer(3,"Mert3","Cal3",27));
     }
 
     @Override
@@ -25,7 +25,7 @@ public class MysqlCustomerDal implements ICustomerDal{
     @Override
     public void update(int id,Customer customer) {
 
-        this.customers.set(id,customer);
+        this.customers.set(id -1 ,customer);
 
     }
 
