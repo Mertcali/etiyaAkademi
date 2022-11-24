@@ -18,12 +18,7 @@
 
 ----------
 
-## 4
 
-![alt text](https://github.com/Mertcali/etiyaAkademi/blob/master/workshop2_ER_Diagrams/4.PNG)
+## 4.
 
-----------
-
-## 4.1
-
-![alt text](https://github.com/Mertcali/etiyaAkademi/blob/master/workshop2_ER_Diagrams/4.1.PNG)
+![alt text](https://github.com/Mertcali/etiyaAkademi/blob/master/workshop2_ER_Diagrams/ER_png.png)
