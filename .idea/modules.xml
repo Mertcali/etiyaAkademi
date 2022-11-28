@@ -7,7 +7,6 @@
       <module fileurl="file://$PROJECT_DIR$/oop/oop.iml" filepath="$PROJECT_DIR$/oop/oop.iml" />
       <module fileurl="file://$PROJECT_DIR$/workshop1/workshop1.iml" filepath="$PROJECT_DIR$/workshop1/workshop1.iml" />
       <module fileurl="file://$PROJECT_DIR$/workshop2_ER_Diagrams/workshop2_ER_Diagrams.iml" filepath="$PROJECT_DIR$/workshop2_ER_Diagrams/workshop2_ER_Diagrams.iml" />
-      <module fileurl="file://$PROJECT_DIR$/workshop4_10_Sql_Examples_2/workshop4_10_Sql_Examples_2.iml" filepath="$PROJECT_DIR$/workshop4_10_Sql_Examples_2/workshop4_10_Sql_Examples_2.iml" />
     </modules>
   </component>
 </project>
