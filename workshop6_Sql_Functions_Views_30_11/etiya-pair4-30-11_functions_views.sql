@@ -21,7 +21,7 @@ select get_best_product(2022)
 
 -- Kullanıcıların yaşlarını hesapla
 
-CREATE or replace function DATE_DIFF(date1 date,date2 date,year varchar)
+CREATE or replace function DATE_DIFF(date1 date,date2 date,date_type varchar)
 returns integer
 language plpgsql 
 as
@@ -29,7 +29,7 @@ $$
 declare 
 sonuc integer;
 begin 
-sonuc:=date_part(year,date1) - date_part(year,date2);
+sonuc:=date_part(date_type,date1) - date_part(date_type,date2);
 return sonuc;
 end;
 $$;
