@@ -77,6 +77,8 @@ on sp.id= ps.supplier_id;
 
 SELECT * from get_product_supplier
 
+-- DATEDIFF ICIN GUZEL LINK: https://sqlines.com/postgresql/how-to/datediff
+
 
 
 
